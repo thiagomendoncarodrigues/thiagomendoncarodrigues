@@ -1,12 +1,6 @@
-### Hi there 👋
+### Olá, eu sou Thiago Mendonça Rodrigues
 
-<!--
-**thiagomendoncarodrigues/thiagomendoncarodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 Procurando desenvolver habilidade analiticas em analise de dados.
-- 👯 I’m looking to collaborate on ...
+- 🔭 Trabalhando em desvolver projetos pessoais para devulgação no meu portifolio.
+- 🌱 Procurando desenvolver habilidade analiticas em analise de dados. SQL/ Power Bi/ Management Studio
 - 🤔 Procurando ajuda em desenvolvimento de projetos
 - 😄 Pronouns: ele/dele
