@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Eu sou Thiago Mendonça Rodrigues</h1>
-<h3 align="center">Sou apaixonado por realização de análise de dados no mundo dos negócios</h3>
+<h3 align="center">Sou graduado em Administração e apaixonado por realização de análise de dados no mundo dos negócios, buscando desenvolver melhorias organizacionais através da Análise de Dados.</h3>
 
 - 🌱 Atualmente estou Aprendendo **Modelagem de Dados, SQL e reforçando meus conhecimentos em Power BI e Data Visualization**
 
