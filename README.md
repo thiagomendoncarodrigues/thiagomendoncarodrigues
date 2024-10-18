@@ -4,7 +4,8 @@
 - 🌱 Atualmente estou Aprendendo **Modelagem de Dados, SQL e reforçando meus conhecimentos em Power BI, Visualização de Dados e área de negócios, na plataforma Alura**
 - 🔎 Procurando primeiro emprego na área!
 - 💬 Me pergunte sobre **Power BI, Excel, Modelagem de Dados, SQL**
-
+- Portifólio Google sites: https://sites.google.com/view/
+portifoliothiagomrodrigues
 - 📫 Você me acha atráves do e-mail **thiago_cursos145@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
